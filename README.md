@@ -1,1 +1,1 @@
-shell  tasks solution
+shell permission solutions
