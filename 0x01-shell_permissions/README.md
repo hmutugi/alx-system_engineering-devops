@@ -1,1 +1,1 @@
-sgell permission solutions
+script that changes ownership to betty
