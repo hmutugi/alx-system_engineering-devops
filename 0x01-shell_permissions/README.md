@@ -1,1 +1,1 @@
-script that executes permission to the owner
+writes script that sets mode of file hello same as ollehs
