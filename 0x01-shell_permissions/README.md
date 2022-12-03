@@ -1,1 +1,1 @@
-script that changes ownership to betty
+script that executes permission to the owner
